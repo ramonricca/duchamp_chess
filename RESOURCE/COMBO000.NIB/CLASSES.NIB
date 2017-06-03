@@ -1,0 +1,44 @@
+{
+    IBClasses = (
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {CLASS = MyInputLine; LANGUAGE = Java; SUPERCLASS = NSTextView; }, 
+        {
+            ACTIONS = {
+                closeWindow = id; 
+                connect = id; 
+                openPrefs = id; 
+                openWindow = id; 
+                saveSetting = id; 
+                sendMacro = id; 
+                toggleDrawer = id; 
+            }; 
+            CLASS = MyMainWindowController; 
+            LANGUAGE = Java; 
+            OUTLETS = {
+                cancelButton = NSButton; 
+                connect = NSButton; 
+                drawer = NSDrawer; 
+                inputLine = MyInputLine; 
+                lagButton = NSButton; 
+                newSeek = NSButton; 
+                passwordText = NSSecureTextField; 
+                port = NSTextField; 
+                save = NSButton; 
+                seekList = NSPopUpButton; 
+                seekView = MySeekView; 
+                serverText = NSTextField; 
+                serverType = NSMatrix; 
+                settingText = NSTextField; 
+                settings = NSTableView; 
+                terminal = MyTerminalView; 
+                usernameText = NSTextField; 
+                window = MyWindow; 
+            }; 
+            SUPERCLASS = "java.lang.Object"; 
+        }, 
+        {CLASS = MySeekView; LANGUAGE = Java; SUPERCLASS = NSView; }, 
+        {CLASS = MyTerminalView; LANGUAGE = Java; SUPERCLASS = NSTextView; }, 
+        {CLASS = MyWindow; LANGUAGE = Java; SUPERCLASS = NSWindow; }
+    ); 
+    IBVersion = 1; 
+}

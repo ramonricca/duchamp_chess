@@ -1,0 +1,1021 @@
+// !$*UTF8*$!
+{
+	29B97313FDCFA39411CA2CEA = {
+		activeBuildStyle = 4A9504D3FFE6A4CB11CA0CBA;
+		activeExecutable = 328CD02D03BF8A6900A80236;
+		activeTarget = 29B97326FDCFA39411CA2CEA;
+		addToTargets = (
+			29B97326FDCFA39411CA2CEA,
+		);
+		breakpoints = (
+			322DADF603CBB8D800A80236,
+			324C631703E63A1000A80236,
+			324C631903E63BAA00A80236,
+		);
+		executables = (
+			328CD02D03BF8A6900A80236,
+		);
+		perUserDictionary = {
+			PBXPerProjectTemplateStateSaveDate = 119055021;
+			PBXWorkspaceContents = (
+				{
+					LeftSlideOut = {
+						Split0 = {
+							Split0 = {
+								NavCount = 1;
+								NavGeometry0 = {
+									Frame = "{{0, 0}, {150, 530}}";
+									NavBarVisible = YES;
+								};
+								NavSplitVertical = NO;
+							};
+							SplitCount = 1;
+							Tab1 = {
+								Debugger = {
+									Split0 = {
+										SplitCount = 2;
+									};
+									SplitCount = 1;
+									TabCount = 2;
+								};
+								LauncherConfigVersion = 7;
+							};
+							Tab2 = {
+								LauncherConfigVersion = 3;
+								Runner = {
+								};
+							};
+							TabCount = 5;
+						};
+						SplitCount = 1;
+						Tab1 = {
+							OptionsSetName = "Hierarchy, all classes";
+						};
+						TabCount = 5;
+					};
+				},
+				{
+					LeftSlideOut = {
+						Split0 = {
+							Split0 = {
+								NavContent0 = {
+									history = (
+										32A2ECBA03E36BC300A80236,
+										32A39F5D03F8CE7C00A80236,
+										32A3733403FD09BA00A80236,
+										32A218F603FFABB600A80236,
+										323184790401FFAD00A80236,
+										3231847A0401FFAD00A80236,
+										3231847B0401FFAD00A80236,
+										32AD8BFC0408D50800A80236,
+										32AD8BFD0408D50800A80236,
+										321B29AA0419E4A700A80236,
+										321B29AB0419E4A700A80236,
+										321B29B9041A00C500A80236,
+									);
+									prevStack = (
+										32A2ECBD03E36BC300A80236,
+										32A2ECBF03E36BC300A80236,
+										32A6E9E903F3A27D00A80236,
+										32A6E9EB03F3A27D00A80236,
+										32A6E9ED03F3A27D00A80236,
+										32A6E9F003F3A27D00A80236,
+										32A6E9F203F3A27D00A80236,
+										32A2261D03F6940300A80236,
+										32A2261E03F6940300A80236,
+										32A39F6303F8CE7C00A80236,
+										32A39F6503F8CE7C00A80236,
+										32A39F6603F8CE7C00A80236,
+										32A0A55603FB6BCC00A80236,
+										32A3733A03FD09BA00A80236,
+										32AAB10E03FE34E400A80236,
+										32A218FA03FFABB600A80236,
+										32A218FC03FFABB600A80236,
+										32A218FD03FFABB600A80236,
+										32A218FF03FFABB600A80236,
+										32A5DBF40400A07300A80236,
+										32A5DBF60400A07300A80236,
+										32A5DC030400ECA100A80236,
+										32A5DC040400ECA100A80236,
+										32A5DC050400ECA100A80236,
+										32A5DC060400ECA100A80236,
+										32A5DC070400ECA100A80236,
+										32A5DC090400ECA100A80236,
+										32A5DC0B0400ECA100A80236,
+										3231847D0401FFAD00A80236,
+										3231847E0401FFAD00A80236,
+										3231847F0401FFAD00A80236,
+										323184800401FFAD00A80236,
+										32AD8C020408D50800A80236,
+										32AD8C030408D50800A80236,
+										32A25F22041229D700A80236,
+										321B29B20419E4A700A80236,
+										321B29B30419E4A700A80236,
+										321B29BB041A00C500A80236,
+									);
+								};
+								NavCount = 1;
+								NavGeometry0 = {
+									Frame = "{{0, 0}, {453, 165}}";
+									NavBarVisible = YES;
+								};
+								NavSplitVertical = NO;
+							};
+							SplitCount = 1;
+							Tab1 = {
+								Debugger = {
+									Split0 = {
+										SplitCount = 2;
+									};
+									SplitCount = 1;
+									TabCount = 2;
+								};
+								LauncherConfigVersion = 7;
+							};
+							Tab2 = {
+								LauncherConfigVersion = 3;
+								Runner = {
+								};
+							};
+							TabCount = 5;
+						};
+						SplitCount = 1;
+						Tab1 = {
+							OptionsSetName = "Hierarchy, all classes";
+						};
+						TabCount = 5;
+					};
+				},
+			);
+			PBXWorkspaceGeometries = (
+				{
+					ContentSize = "{280, 470}";
+					LeftSlideOut = {
+						ActiveTab = 0;
+						ActiveTabName = PBXGroupTreeModule;
+						Collapsed = YES;
+						Frame = "{{0, 23}, {280, 447}}";
+						Split0 = {
+							Collapsed = NO;
+							Frame = "{{1e+06, 1e+06}, {0, 447}}";
+							Split0 = {
+								Frame = "{{0, 0}, {0, 447}}";
+							};
+							SplitCount = 1;
+							Tab0 = {
+								Frame = "{{0, 0}, {484, 208}}";
+							};
+							Tab1 = {
+								Debugger = {
+									Collapsed = NO;
+									Frame = "{{0, 0}, {664, 208}}";
+									Split0 = {
+										Frame = "{{0, 24}, {664, 184}}";
+										Split0 = {
+											Frame = "{{0, 0}, {325, 184}}";
+										};
+										Split1 = {
+											DebugVariablesTableConfiguration = (
+												Name,
+												123,
+												Value,
+												85,
+												Summary,
+												96.123,
+											);
+											Frame = "{{334, 0}, {330, 184}}";
+										};
+										SplitCount = 2;
+									};
+									SplitCount = 1;
+									Tab0 = {
+										Frame = "{{0, 0}, {100, 50}}";
+									};
+									Tab1 = {
+										Frame = "{{0, 0}, {100, 50}}";
+									};
+									TabCount = 2;
+									TabsVisible = YES;
+								};
+								Frame = "{{0, 0}, {664, 208}}";
+								LauncherConfigVersion = 7;
+							};
+							Tab2 = {
+								Frame = "{{0, 0}, {664, 50}}";
+								LauncherConfigVersion = 3;
+								Runner = {
+									Frame = "{{0, 0}, {664, 50}}";
+								};
+							};
+							Tab3 = {
+								BuildMessageFrame = "{{0, 0}, {614, 203}}";
+								BuildTranscriptFrame = "{{0, 212}, {614, 85}}";
+								BuildTranscriptFrameExpanded = YES;
+								Frame = "{{0, 0}, {612, 295}}";
+							};
+							Tab4 = {
+								Frame = "{{0, 0}, {612, 295}}";
+							};
+							TabCount = 5;
+							TabsVisible = NO;
+						};
+						SplitCount = 1;
+						Tab0 = {
+							Frame = "{{0, 0}, {256, 447}}";
+							GroupTreeTableConfiguration = (
+								TargetStatusColumn,
+								18,
+								MainColumn,
+								223,
+							);
+						};
+						Tab1 = {
+							ClassesFrame = "{{0, 0}, {343, 348}}";
+							ClassesTreeTableConfiguration = (
+								PBXBookColumnIdentifier,
+								20,
+								PBXClassColumnIdentifier,
+								300,
+							);
+							Frame = "{{0, 0}, {341, 578}}";
+							MembersFrame = "{{0, 357}, {343, 221}}";
+							MembersTreeTableConfiguration = (
+								PBXBookColumnIdentifier,
+								20,
+								PBXMethodColumnIdentifier,
+								299,
+							);
+						};
+						Tab2 = {
+							Frame = "{{0, 0}, {319, 576}}";
+						};
+						Tab3 = {
+							Frame = "{{0, 0}, {256, 447}}";
+							TargetTableConfiguration = (
+								ActiveObject,
+								16,
+								ObjectNames,
+								223.296,
+							);
+						};
+						Tab4 = {
+							BreakpointsTreeTableConfiguration = (
+								breakpointColumn,
+								266,
+								enabledColumn,
+								31,
+							);
+							Frame = "{{0, 0}, {319, 576}}";
+						};
+						TabCount = 5;
+						TabsVisible = YES;
+					};
+					NavBarShownByDefault = YES;
+					StatusViewVisible = YES;
+					Template = F5E465990156DFB90DCA290F;
+					ToolbarVisible = YES;
+					WindowLocation = "{-2, 214}";
+				},
+				{
+					ContentSize = "{453, 429}";
+					LeftSlideOut = {
+						Collapsed = NO;
+						Frame = "{{0, 23}, {453, 406}}";
+						Split0 = {
+							ActiveTab = 1;
+							ActiveTabName = PBXRunSessionModule;
+							Collapsed = NO;
+							Frame = "{{0, 0}, {453, 406}}";
+							Split0 = {
+								Frame = "{{0, 241}, {453, 165}}";
+							};
+							SplitCount = 1;
+							Tab0 = {
+								Frame = "{{0, 0}, {453, 321}}";
+							};
+							Tab1 = {
+								Debugger = {
+									Collapsed = NO;
+									Frame = "{{0, 0}, {781, 452}}";
+									Split0 = {
+										Frame = "{{0, 24}, {781, 428}}";
+										Split0 = {
+											Frame = "{{0, 0}, {383, 428}}";
+										};
+										Split1 = {
+											DebugVariablesTableConfiguration = (
+												Name,
+												123,
+												Value,
+												85,
+												Summary,
+												155.123,
+											);
+											Frame = "{{392, 0}, {389, 428}}";
+										};
+										SplitCount = 2;
+									};
+									SplitCount = 1;
+									Tab0 = {
+										Frame = "{{0, 0}, {100, 50}}";
+									};
+									Tab1 = {
+										Frame = "{{0, 0}, {100, 50}}";
+									};
+									TabCount = 2;
+									TabsVisible = YES;
+								};
+								Frame = "{{0, 0}, {781, 452}}";
+								LauncherConfigVersion = 7;
+							};
+							Tab2 = {
+								Frame = "{{0, 0}, {453, 217}}";
+								LauncherConfigVersion = 3;
+								Runner = {
+									Frame = "{{0, 0}, {453, 217}}";
+								};
+							};
+							Tab3 = {
+								BuildMessageFrame = "{{0, 0}, {455, 116}}";
+								BuildTranscriptFrame = "{{0, 125}, {455, 58}}";
+								BuildTranscriptFrameExpanded = YES;
+								Frame = "{{0, 0}, {453, 205}}";
+							};
+							Tab4 = {
+								Frame = "{{0, 0}, {453, 295}}";
+							};
+							TabCount = 5;
+							TabsVisible = YES;
+						};
+						SplitCount = 1;
+						Tab0 = {
+							Frame = "{{0, 0}, {300, 533}}";
+							GroupTreeTableConfiguration = (
+								TargetStatusColumn,
+								18,
+								MainColumn,
+								267,
+							);
+						};
+						Tab1 = {
+							ClassesFrame = "{{0, 0}, {280, 398}}";
+							ClassesTreeTableConfiguration = (
+								PBXBookColumnIdentifier,
+								20,
+								PBXClassColumnIdentifier,
+								237,
+							);
+							Frame = "{{0, 0}, {278, 659}}";
+							MembersFrame = "{{0, 407}, {280, 252}}";
+							MembersTreeTableConfiguration = (
+								PBXBookColumnIdentifier,
+								20,
+								PBXMethodColumnIdentifier,
+								236,
+							);
+						};
+						Tab2 = {
+							Frame = "{{0, 0}, {200, 100}}";
+						};
+						Tab3 = {
+							Frame = "{{0, 0}, {200, 100}}";
+							TargetTableConfiguration = (
+								ActiveObject,
+								16,
+								ObjectNames,
+								202.296,
+							);
+						};
+						Tab4 = {
+							BreakpointsTreeTableConfiguration = (
+								breakpointColumn,
+								197,
+								enabledColumn,
+								31,
+							);
+							Frame = "{{0, 0}, {250, 100}}";
+						};
+						TabCount = 5;
+						TabsVisible = NO;
+					};
+					NavBarShownByDefault = YES;
+					StatusViewVisible = YES;
+					Template = F5314676015831810DCA290F;
+					ToolbarVisible = YES;
+					WindowLocation = "{571, 254}";
+				},
+			);
+			PBXWorkspaceStateSaveDate = 119055021;
+		};
+		perUserProjectItems = {
+			321B29AA0419E4A700A80236 = 321B29AA0419E4A700A80236;
+			321B29AB0419E4A700A80236 = 321B29AB0419E4A700A80236;
+			321B29B20419E4A700A80236 = 321B29B20419E4A700A80236;
+			321B29B30419E4A700A80236 = 321B29B30419E4A700A80236;
+			321B29B9041A00C500A80236 = 321B29B9041A00C500A80236;
+			321B29BB041A00C500A80236 = 321B29BB041A00C500A80236;
+			323184790401FFAD00A80236 = 323184790401FFAD00A80236;
+			3231847A0401FFAD00A80236 = 3231847A0401FFAD00A80236;
+			3231847B0401FFAD00A80236 = 3231847B0401FFAD00A80236;
+			3231847D0401FFAD00A80236 = 3231847D0401FFAD00A80236;
+			3231847E0401FFAD00A80236 = 3231847E0401FFAD00A80236;
+			3231847F0401FFAD00A80236 = 3231847F0401FFAD00A80236;
+			323184800401FFAD00A80236 = 323184800401FFAD00A80236;
+			32A0A55603FB6BCC00A80236 = 32A0A55603FB6BCC00A80236;
+			32A218F603FFABB600A80236 = 32A218F603FFABB600A80236;
+			32A218FA03FFABB600A80236 = 32A218FA03FFABB600A80236;
+			32A218FC03FFABB600A80236 = 32A218FC03FFABB600A80236;
+			32A218FD03FFABB600A80236 = 32A218FD03FFABB600A80236;
+			32A218FF03FFABB600A80236 = 32A218FF03FFABB600A80236;
+			32A2261D03F6940300A80236 = 32A2261D03F6940300A80236;
+			32A2261E03F6940300A80236 = 32A2261E03F6940300A80236;
+			32A25F22041229D700A80236 = 32A25F22041229D700A80236;
+			32A2ECBA03E36BC300A80236 = 32A2ECBA03E36BC300A80236;
+			32A2ECBD03E36BC300A80236 = 32A2ECBD03E36BC300A80236;
+			32A2ECBF03E36BC300A80236 = 32A2ECBF03E36BC300A80236;
+			32A3733403FD09BA00A80236 = 32A3733403FD09BA00A80236;
+			32A3733A03FD09BA00A80236 = 32A3733A03FD09BA00A80236;
+			32A39F5D03F8CE7C00A80236 = 32A39F5D03F8CE7C00A80236;
+			32A39F6303F8CE7C00A80236 = 32A39F6303F8CE7C00A80236;
+			32A39F6503F8CE7C00A80236 = 32A39F6503F8CE7C00A80236;
+			32A39F6603F8CE7C00A80236 = 32A39F6603F8CE7C00A80236;
+			32A5DBF40400A07300A80236 = 32A5DBF40400A07300A80236;
+			32A5DBF60400A07300A80236 = 32A5DBF60400A07300A80236;
+			32A5DC030400ECA100A80236 = 32A5DC030400ECA100A80236;
+			32A5DC040400ECA100A80236 = 32A5DC040400ECA100A80236;
+			32A5DC050400ECA100A80236 = 32A5DC050400ECA100A80236;
+			32A5DC060400ECA100A80236 = 32A5DC060400ECA100A80236;
+			32A5DC070400ECA100A80236 = 32A5DC070400ECA100A80236;
+			32A5DC090400ECA100A80236 = 32A5DC090400ECA100A80236;
+			32A5DC0B0400ECA100A80236 = 32A5DC0B0400ECA100A80236;
+			32A6E9E903F3A27D00A80236 = 32A6E9E903F3A27D00A80236;
+			32A6E9EB03F3A27D00A80236 = 32A6E9EB03F3A27D00A80236;
+			32A6E9ED03F3A27D00A80236 = 32A6E9ED03F3A27D00A80236;
+			32A6E9F003F3A27D00A80236 = 32A6E9F003F3A27D00A80236;
+			32A6E9F203F3A27D00A80236 = 32A6E9F203F3A27D00A80236;
+			32AAB10E03FE34E400A80236 = 32AAB10E03FE34E400A80236;
+			32AD8BFC0408D50800A80236 = 32AD8BFC0408D50800A80236;
+			32AD8BFD0408D50800A80236 = 32AD8BFD0408D50800A80236;
+			32AD8C020408D50800A80236 = 32AD8C020408D50800A80236;
+			32AD8C030408D50800A80236 = 32AD8C030408D50800A80236;
+		};
+		projectwideBuildSettings = {
+		};
+		wantsIndex = 1;
+		wantsSCM = -1;
+	};
+	29B97326FDCFA39411CA2CEA = {
+		activeExec = 0;
+		executables = (
+			328CD02D03BF8A6900A80236,
+		);
+	};
+	321B29AA0419E4A700A80236 = {
+		fRef = 32A6E9DE03F36E3400A80236;
+		isa = PBXTextBookmark;
+		name = "MyPreferences.java: 544";
+		rLen = 53;
+		rLoc = 24133;
+		rType = 0;
+		vrLen = 566;
+		vrLoc = 23819;
+	};
+	321B29AB0419E4A700A80236 = {
+		fRef = 32A6E9DA03F364F900A80236;
+		isa = PBXTextBookmark;
+		name = "MyExampleBoard.java: 109";
+		rLen = 0;
+		rLoc = 4946;
+		rType = 0;
+		vrLen = 583;
+		vrLoc = 2347;
+	};
+	321B29B20419E4A700A80236 = {
+		fRef = 32A6E9DE03F36E3400A80236;
+		isa = PBXTextBookmark;
+		name = "MyPreferences.java: 544";
+		rLen = 53;
+		rLoc = 24133;
+		rType = 0;
+		vrLen = 566;
+		vrLoc = 23819;
+	};
+	321B29B30419E4A700A80236 = {
+		fRef = 32A6E9DA03F364F900A80236;
+		isa = PBXTextBookmark;
+		name = "MyExampleBoard.java: 109";
+		rLen = 0;
+		rLoc = 4946;
+		rType = 0;
+		vrLen = 583;
+		vrLoc = 2347;
+	};
+	321B29B9041A00C500A80236 = {
+		fRef = 322DADCB03CB693500A80236;
+		isa = PBXTextBookmark;
+		name = "MyClientThread.java: setSeek";
+		rLen = 0;
+		rLoc = 8868;
+		rType = 0;
+		vrLen = 605;
+		vrLoc = 4869;
+	};
+	321B29BB041A00C500A80236 = {
+		fRef = 322DADCB03CB693500A80236;
+		isa = PBXTextBookmark;
+		name = "MyClientThread.java: setSeek";
+		rLen = 0;
+		rLoc = 8868;
+		rType = 0;
+		vrLen = 605;
+		vrLoc = 4869;
+	};
+	322DADF603CBB8D800A80236 = {
+		fileReference = 322DADEE03CB705000A80236;
+		isa = PBXFileBreakpoint;
+		lineNumber = 47;
+		state = 2;
+	};
+	323184790401FFAD00A80236 = {
+		fRef = 32B00F0D03E1058C00A80236;
+		isa = PBXTextBookmark;
+		name = "MyTimerThread.java: 57";
+		rLen = 0;
+		rLoc = 1942;
+		rType = 0;
+		vrLen = 457;
+		vrLoc = 1360;
+	};
+	3231847A0401FFAD00A80236 = {
+		fRef = 322DADC803CB693500A80236;
+		isa = PBXTextBookmark;
+		name = "MyBoardHeaderView.java: 174";
+		rLen = 0;
+		rLoc = 6225;
+		rType = 0;
+		vrLen = 632;
+		vrLoc = 4004;
+	};
+	3231847B0401FFAD00A80236 = {
+		fRef = 32A5DBFD0400B13900A80236;
+		isa = PBXTextBookmark;
+		name = "MyHeaderField.java: drawRect";
+		rLen = 0;
+		rLoc = 1316;
+		rType = 0;
+		vrLen = 385;
+		vrLoc = 417;
+	};
+	3231847D0401FFAD00A80236 = {
+		fRef = 322DADC803CB693500A80236;
+		isa = PBXTextBookmark;
+		name = "MyBoardHeaderView.java: 172";
+		rLen = 0;
+		rLoc = 6273;
+		rType = 0;
+		vrLen = 541;
+		vrLoc = 1693;
+	};
+	3231847E0401FFAD00A80236 = {
+		fRef = 32B00F0D03E1058C00A80236;
+		isa = PBXTextBookmark;
+		name = "MyTimerThread.java: 57";
+		rLen = 0;
+		rLoc = 1942;
+		rType = 0;
+		vrLen = 457;
+		vrLoc = 1360;
+	};
+	3231847F0401FFAD00A80236 = {
+		fRef = 322DADC803CB693500A80236;
+		isa = PBXTextBookmark;
+		name = "MyBoardHeaderView.java: 174";
+		rLen = 0;
+		rLoc = 6225;
+		rType = 0;
+		vrLen = 632;
+		vrLoc = 4004;
+	};
+	323184800401FFAD00A80236 = {
+		fRef = 32A5DBFD0400B13900A80236;
+		isa = PBXTextBookmark;
+		name = "MyHeaderField.java: drawRect";
+		rLen = 0;
+		rLoc = 1316;
+		rType = 0;
+		vrLen = 385;
+		vrLoc = 417;
+	};
+	324C631703E63A1000A80236 = {
+		fileReference = 322DADC903CB693500A80236;
+		isa = PBXFileBreakpoint;
+		lineNumber = 261;
+		state = 2;
+	};
+	324C631903E63BAA00A80236 = {
+		fileReference = 322DADC903CB693500A80236;
+		isa = PBXFileBreakpoint;
+		lineNumber = 260;
+		state = 2;
+	};
+	328CD02D03BF8A6900A80236 = {
+		activeArgIndex = 2147483647;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		configStateDict = {
+			"PBXLSLaunchAction-0" = {
+				PBXLSLaunchAction = 0;
+				PBXLSLaunchStartAction = 1;
+				PBXLSLaunchStdioStyle = 1;
+				PBXLSLaunchStyle = 0;
+				class = PBXLSRunLaunchConfig;
+				identifier = com.apple.ProjectBuilder.launch.runConfig;
+				remoteHostInfo = "";
+				startActionInfo = "";
+			};
+		};
+		debuggerPlugin = GDBDebugging;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		isa = PBXExecutable;
+		name = Duchamp;
+		shlibInfoDictList = (
+		);
+		sourceDirectories = (
+		);
+	};
+	32A0A55603FB6BCC00A80236 = {
+		fRef = 322DADCB03CB693500A80236;
+		isa = PBXTextBookmark;
+		name = "MyClientThread.java: 102";
+		rLen = 0;
+		rLoc = 3313;
+		rType = 0;
+		vrLen = 569;
+		vrLoc = 646;
+	};
+	32A218F603FFABB600A80236 = {
+		fRef = 32A218F203FF681500A80236;
+		isa = PBXTextBookmark;
+		name = "MySeekEntry.java: 77";
+		rLen = 0;
+		rLoc = 1755;
+		rType = 0;
+		vrLen = 437;
+		vrLoc = 632;
+	};
+	32A218FA03FFABB600A80236 = {
+		fRef = 32A218F403FF70F000A80236;
+		isa = PBXTextBookmark;
+		name = "MySeekThread.java: 92";
+		rLen = 0;
+		rLoc = 1993;
+		rType = 0;
+		vrLen = 324;
+		vrLoc = 541;
+	};
+	32A218FC03FFABB600A80236 = {
+		fRef = 32A218F403FF70F000A80236;
+		isa = PBXTextBookmark;
+		name = "MySeekThread.java: 81";
+		rLen = 11;
+		rLoc = 1748;
+		rType = 0;
+		vrLen = 401;
+		vrLoc = 1587;
+	};
+	32A218FD03FFABB600A80236 = {
+		fRef = 32A218F203FF681500A80236;
+		isa = PBXTextBookmark;
+		name = "MySeekEntry.java: 77";
+		rLen = 0;
+		rLoc = 1755;
+		rType = 0;
+		vrLen = 437;
+		vrLoc = 632;
+	};
+	32A218FF03FFABB600A80236 = {
+		fRef = 32A218F403FF70F000A80236;
+		isa = PBXTextBookmark;
+		name = "MySeekThread.java: 96";
+		rLen = 0;
+		rLoc = 2100;
+		rType = 0;
+		vrLen = 364;
+		vrLoc = 1698;
+	};
+	32A2261D03F6940300A80236 = {
+		fRef = 32A6E9D603F307E000A80236;
+		isa = PBXTextBookmark;
+		name = "MyRegularExpressions.java: 119";
+		rLen = 0;
+		rLoc = 4149;
+		rType = 0;
+		vrLen = 593;
+		vrLoc = 1214;
+	};
+	32A2261E03F6940300A80236 = {
+		fRef = 322DADCB03CB693500A80236;
+		isa = PBXTextBookmark;
+		name = "MyClientThread.java: 206";
+		rLen = 0;
+		rLoc = 3307;
+		rType = 0;
+		vrLen = 0;
+		vrLoc = 3307;
+	};
+	32A25F22041229D700A80236 = {
+		fRef = 322DADCB03CB693500A80236;
+		isa = PBXTextBookmark;
+		name = "MyClientThread.java: 254";
+		rLen = 0;
+		rLoc = 8919;
+		rType = 0;
+		vrLen = 479;
+		vrLoc = 6388;
+	};
+	32A2ECBA03E36BC300A80236 = {
+		fRef = 322DADCE03CB693500A80236;
+		isa = PBXTextBookmark;
+		name = "MyTerminalView.java: 55";
+		rLen = 0;
+		rLoc = 1600;
+		rType = 0;
+		vrLen = 348;
+		vrLoc = 1252;
+	};
+	32A2ECBD03E36BC300A80236 = {
+		fRef = 322DADCE03CB693500A80236;
+		isa = PBXTextBookmark;
+		name = "MyTerminalView.java: 58";
+		rLen = 0;
+		rLoc = 1799;
+		rType = 0;
+		vrLen = 599;
+		vrLoc = 1178;
+	};
+	32A2ECBF03E36BC300A80236 = {
+		fRef = 322DADCE03CB693500A80236;
+		isa = PBXTextBookmark;
+		name = "MyTerminalView.java: 55";
+		rLen = 0;
+		rLoc = 1600;
+		rType = 0;
+		vrLen = 348;
+		vrLoc = 1252;
+	};
+	32A3733403FD09BA00A80236 = {
+		fRef = 3266FAF403E3B2C100A80236;
+		isa = PBXTextBookmark;
+		name = "MyWindow.java: 79";
+		rLen = 0;
+		rLoc = 3074;
+		rType = 0;
+		vrLen = 750;
+		vrLoc = 1092;
+	};
+	32A3733A03FD09BA00A80236 = {
+		fRef = 3266FAF403E3B2C100A80236;
+		isa = PBXTextBookmark;
+		name = "MyWindow.java: 79";
+		rLen = 0;
+		rLoc = 3074;
+		rType = 0;
+		vrLen = 750;
+		vrLoc = 1092;
+	};
+	32A39F5D03F8CE7C00A80236 = {
+		fRef = 32A6E9D603F307E000A80236;
+		isa = PBXTextBookmark;
+		name = "MyRegularExpressions.java: 126";
+		rLen = 0;
+		rLoc = 4161;
+		rType = 0;
+		vrLen = 276;
+		vrLoc = 3885;
+	};
+	32A39F6303F8CE7C00A80236 = {
+		fRef = 322DADCB03CB693500A80236;
+		isa = PBXTextBookmark;
+		name = "MyClientThread.java: run";
+		rLen = 0;
+		rLoc = 3270;
+		rType = 0;
+		vrLen = 419;
+		vrLoc = 1823;
+	};
+	32A39F6503F8CE7C00A80236 = {
+		fRef = 32A6E9D603F307E000A80236;
+		isa = PBXTextBookmark;
+		name = "MyRegularExpressions.java: 126";
+		rLen = 0;
+		rLoc = 4161;
+		rType = 0;
+		vrLen = 276;
+		vrLoc = 3885;
+	};
+	32A39F6603F8CE7C00A80236 = {
+		fRef = 322DADCB03CB693500A80236;
+		isa = PBXTextBookmark;
+		name = "MyClientThread.java: run";
+		rLen = 0;
+		rLoc = 3307;
+		rType = 0;
+		vrLen = 601;
+		vrLoc = 713;
+	};
+	32A5DBF40400A07300A80236 = {
+		fRef = 32A218F403FF70F000A80236;
+		isa = PBXTextBookmark;
+		name = "MySeekThread.java: 116";
+		rLen = 0;
+		rLoc = 2507;
+		rType = 0;
+		vrLen = 299;
+		vrLoc = 2033;
+	};
+	32A5DBF60400A07300A80236 = {
+		fRef = 32A218F403FF70F000A80236;
+		isa = PBXTextBookmark;
+		name = "MySeekThread.java: 120";
+		rLen = 0;
+		rLoc = 2607;
+		rType = 0;
+		vrLen = 363;
+		vrLoc = 2239;
+	};
+	32A5DC030400ECA100A80236 = {
+		fRef = 325DA74503FB8D7600A80236;
+		isa = PBXTextBookmark;
+		name = "MySeekView.java: addSeek";
+		rLen = 78;
+		rLoc = 1209;
+		rType = 0;
+		vrLen = 563;
+		vrLoc = 980;
+	};
+	32A5DC040400ECA100A80236 = {
+		fRef = 32A218F403FF70F000A80236;
+		isa = PBXTextBookmark;
+		name = "MySeekThread.java: getAllRects";
+		rLen = 0;
+		rLoc = 2665;
+		rType = 0;
+		vrLen = 451;
+		vrLoc = 2214;
+	};
+	32A5DC050400ECA100A80236 = {
+		fRef = 325DA74503FB8D7600A80236;
+		isa = PBXTextBookmark;
+		name = "MySeekView.java: 93";
+		rLen = 0;
+		rLoc = 2849;
+		rType = 0;
+		vrLen = 536;
+		vrLoc = 980;
+	};
+	32A5DC060400ECA100A80236 = {
+		fRef = 32A218F403FF70F000A80236;
+		isa = PBXTextBookmark;
+		name = "MySeekThread.java: 118";
+		rLen = 0;
+		rLoc = 2663;
+		rType = 0;
+		vrLen = 430;
+		vrLoc = 2226;
+	};
+	32A5DC070400ECA100A80236 = {
+		fRef = 32A5DBFD0400B13900A80236;
+		isa = PBXTextBookmark;
+		name = "MyHeaderField.java: 37";
+		rLen = 55;
+		rLoc = 1172;
+		rType = 0;
+		vrLen = 279;
+		vrLoc = 952;
+	};
+	32A5DC090400ECA100A80236 = {
+		fRef = 32A5DBFD0400B13900A80236;
+		isa = PBXTextBookmark;
+		name = "MyHeaderField.java: 47";
+		rLen = 0;
+		rLoc = 1231;
+		rType = 0;
+		vrLen = 103;
+		vrLoc = 1128;
+	};
+	32A5DC0B0400ECA100A80236 = {
+		fRef = 32A5DBFD0400B13900A80236;
+		isa = PBXTextBookmark;
+		name = "MyHeaderField.java: 49";
+		rLen = 0;
+		rLoc = 1231;
+		rType = 0;
+		vrLen = 556;
+		vrLoc = 675;
+	};
+	32A6E9E903F3A27D00A80236 = {
+		fRef = 322DADCB03CB693500A80236;
+		isa = PBXTextBookmark;
+		name = "MyClientThread.java: run";
+		rLen = 0;
+		rLoc = 3307;
+		rType = 0;
+		vrLen = 0;
+		vrLoc = 3307;
+	};
+	32A6E9EB03F3A27D00A80236 = {
+		fRef = 322DADCB03CB693500A80236;
+		isa = PBXTextBookmark;
+		name = "MyClientThread.java: run";
+		rLen = 0;
+		rLoc = 3307;
+		rType = 0;
+		vrLen = 0;
+		vrLoc = 3307;
+	};
+	32A6E9ED03F3A27D00A80236 = {
+		fRef = 322DADCB03CB693500A80236;
+		isa = PBXTextBookmark;
+		name = "MyClientThread.java: 43";
+		rLen = 2;
+		rLoc = 1643;
+		rType = 0;
+		vrLen = 666;
+		vrLoc = 1285;
+	};
+	32A6E9F003F3A27D00A80236 = {
+		fRef = 322DADCB03CB693500A80236;
+		isa = PBXTextBookmark;
+		name = "MyClientThread.java: 43";
+		rLen = 3;
+		rLoc = 1659;
+		rType = 0;
+		vrLen = 516;
+		vrLoc = 1285;
+	};
+	32A6E9F203F3A27D00A80236 = {
+		fRef = 322DADCB03CB693500A80236;
+		isa = PBXTextBookmark;
+		name = "MyClientThread.java: 215";
+		rLen = 0;
+		rLoc = 3307;
+		rType = 0;
+		vrLen = 0;
+		vrLoc = 3307;
+	};
+	32AAB10E03FE34E400A80236 = {
+		fRef = 322DADCB03CB693500A80236;
+		isa = PBXTextBookmark;
+		name = "MyClientThread.java: 188";
+		rLen = 0;
+		rLoc = 6320;
+		rType = 0;
+		vrLen = 457;
+		vrLoc = 2641;
+	};
+	32AD8BFC0408D50800A80236 = {
+		fRef = 325DA74503FB8D7600A80236;
+		isa = PBXTextBookmark;
+		name = "MySeekView.java: 174";
+		rLen = 0;
+		rLoc = 5649;
+		rType = 0;
+		vrLen = 561;
+		vrLoc = 2890;
+	};
+	32AD8BFD0408D50800A80236 = {
+		fRef = 32A218F403FF70F000A80236;
+		isa = PBXTextBookmark;
+		name = "MySeekThread.java: 118";
+		rLen = 0;
+		rLoc = 2663;
+		rType = 0;
+		vrLen = 486;
+		vrLoc = 2113;
+	};
+	32AD8C020408D50800A80236 = {
+		fRef = 325DA74503FB8D7600A80236;
+		isa = PBXTextBookmark;
+		name = "MySeekView.java: 174";
+		rLen = 0;
+		rLoc = 5649;
+		rType = 0;
+		vrLen = 561;
+		vrLoc = 2890;
+	};
+	32AD8C030408D50800A80236 = {
+		fRef = 32A218F403FF70F000A80236;
+		isa = PBXTextBookmark;
+		name = "MySeekThread.java: 118";
+		rLen = 0;
+		rLoc = 2663;
+		rType = 0;
+		vrLen = 486;
+		vrLoc = 2113;
+	};
+}

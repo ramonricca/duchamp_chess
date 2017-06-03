@@ -1,0 +1,67 @@
+{
+    IBClasses = (
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {CLASS = MyInputLine; LANGUAGE = Java; SUPERCLASS = NSTextView; }, 
+        {
+            ACTIONS = {
+                addBuddy = id; 
+                chat = id; 
+                closeWindow = id; 
+                connect = id; 
+                handleBuddy = id; 
+                openPrefs = id; 
+                openWindow = id; 
+                removeBuddy = id; 
+                saveSetting = id; 
+                seek = id; 
+                sendMacro = id; 
+                setFormula = id; 
+                settingSelected = id; 
+            }; 
+            CLASS = MyMainWindowController; 
+            LANGUAGE = Java; 
+            OUTLETS = {
+                add = NSButton; 
+                buddyCancel = NSButton; 
+                buddyList = NSTableView; 
+                buddyName = NSTextField; 
+                buddyOK = NSButton; 
+                buddySheet = NSWindow; 
+                connect = NSButton; 
+                cshout = NSButton; 
+                inputLine = MyInputLine; 
+                kibitz = NSButton; 
+                lagButton = NSButton; 
+                newSeek = NSButton; 
+                passwordText = NSSecureTextField; 
+                port = NSTextField; 
+                remove = NSButton; 
+                say = NSButton; 
+                seekAutoOpen = NSButton; 
+                seekFormula = NSButton; 
+                seekInc = NSTextField; 
+                seekList = NSPopUpButton; 
+                seekMins = NSTextField; 
+                seekRated = NSButton; 
+                seekRatingRange = NSTextField; 
+                seekType = NSPopUpButton; 
+                seekView = MySeekView; 
+                serverSettings = NSPopUpButton; 
+                serverText = NSTextField; 
+                serverType = NSMatrix; 
+                setFormula = NSButton; 
+                settingText = NSTextField; 
+                tab = NSTabView; 
+                tell = NSButton; 
+                terminal = MyTerminalView; 
+                usernameText = NSTextField; 
+                window = NSWindow; 
+            }; 
+            SUPERCLASS = "java.lang.Object"; 
+        }, 
+        {CLASS = MySeekView; LANGUAGE = Java; SUPERCLASS = NSView; }, 
+        {CLASS = MyTerminalView; LANGUAGE = Java; SUPERCLASS = NSTextView; }, 
+        {CLASS = MyWindow; LANGUAGE = Java; SUPERCLASS = NSWindow; }
+    ); 
+    IBVersion = 1; 
+}

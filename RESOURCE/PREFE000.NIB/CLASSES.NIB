@@ -1,0 +1,50 @@
+{
+    IBClasses = (
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {CLASS = MyExampleBoard; LANGUAGE = Java; SUPERCLASS = NSView; }, 
+        {
+            ACTIONS = {changePrefs = id; setFont = id; showNewBoard = id; showNewTerm = id; }; 
+            CLASS = MyPreferences; 
+            LANGUAGE = Java; 
+            OUTLETS = {
+                antialias = NSPopUpButton; 
+                autoflag = NSButton; 
+                blitz = NSButton; 
+                boardPanel = NSView; 
+                crazyhouse = NSButton; 
+                cshouts = NSButton; 
+                cube = NSButton; 
+                darkSquares = NSColorWell; 
+                examBoard = MyExampleBoard; 
+                examTerm = NSTextView; 
+                flipButton = NSButton; 
+                fontName = NSTextField; 
+                generalPanel = NSView; 
+                guestTells = NSButton; 
+                lightSquares = NSColorWell; 
+                loadingPanel = NSView; 
+                mySound = NSPopUpButton; 
+                pieces = NSPopUpButton; 
+                rated = NSColorWell; 
+                seekBackground = NSColorWell; 
+                seekForeground = NSColorWell; 
+                seekPanel = NSView; 
+                seekTimeout = NSPopUpButton; 
+                serverTimeout = NSPopUpButton; 
+                setFont = NSButton; 
+                shouts = NSButton; 
+                squareSize = NSPopUpButton; 
+                suicide = NSButton; 
+                termBackground = NSColorWell; 
+                termForeground = NSColorWell; 
+                terminalPanel = NSView; 
+                theWindow = NSWindow; 
+                theirSound = NSPopUpButton; 
+                unrated = NSColorWell; 
+                wild = NSButton; 
+            }; 
+            SUPERCLASS = "java.lang.Object"; 
+        }
+    ); 
+    IBVersion = 1; 
+}

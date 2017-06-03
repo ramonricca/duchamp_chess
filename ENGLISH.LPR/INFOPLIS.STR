@@ -1,0 +1,6 @@
+/* Localized versions of Info.plist keys */
+
+CFBundleName = "Duchamp";
+CFBundleShortVersionString = "Duchamp version 0.20beta build 244";
+CFBundleGetInfoString = "Duchamp Copyright 2003 Clique Software.";
+NSHumanReadableCopyright = "Copyright 2003 Clique Software.";

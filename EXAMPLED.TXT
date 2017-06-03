@@ -1,0 +1,7 @@
+#@#001guest           *thor            :RNBQKBNRPPP  PPP           PP      pp           ppp  ppprnbqkbnr003W393900049-0092d5     (15:59)@#@
+
+#@#001guest           *odin            :RNBQKBNRPPPP PPP            P                   pppppppprnbqkbnr001B39390269702573e4     (0:03)
+
+#@#001abcdefghijklmnop:harvey          *RNBQKBNRPPPPPPPP                                pppppppprnbqkbnr001W39390012000120none   (0:00)@#@
+
+#@#001guest           :thor            *RNBQKBNRPPPPPPPP                                pppppppprnbqkbnr001W39390012000120none   (0:00)@#@

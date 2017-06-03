@@ -1,0 +1,15 @@
+{
+    IBClasses = (
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {CLASS = MyBoardHeaderView; LANGUAGE = Java; SUPERCLASS = NSView; }, 
+        {CLASS = MyBoardView; LANGUAGE = Java; SUPERCLASS = NSView; }, 
+        {
+            CLASS = MyBoardWindow; 
+            LANGUAGE = Java; 
+            OUTLETS = {board = MyBoardView; header = MyBoardHeaderView; window = NSWindow; }; 
+            SUPERCLASS = "java.lang.Object"; 
+        }, 
+        {CLASS = MyWindow; LANGUAGE = Java; SUPERCLASS = NSWindow; }
+    ); 
+    IBVersion = 1; 
+}
